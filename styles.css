@@ -49,8 +49,9 @@ main {
 }
 
 .product img {
-    max-width: 100%;
-    height: auto;
+    width: 100%; /* Ensures images fill their container */
+    height: auto; /* Maintains aspect ratio */
+    max-width: 100%; /* Prevents images from exceeding their original size */
 }
 
 footer {
