@@ -51,7 +51,8 @@ main {
 .product img {
     width: 100%; /* Ensures images fill their container */
     height: auto; /* Maintains aspect ratio */
-    max-width: 100%; /* Prevents images from exceeding their original size */
+    max-width: 100%;/* Prevents images from exceeding their original size */
+    object-fit: cover;
 }
 
 footer {
