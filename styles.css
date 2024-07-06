@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f8ff; /* Light blue background */
+    background-color: #ffffff; /* White background */
     color: #333; /* Dark gray text color */
 }
 
 header {
-    background-color: #d3d3d3; /* Light gray background */
+    background-color: #ffffff; /* White background */
     color: #333; /* Dark gray text color */
     padding: 20px;
     text-align: center;
@@ -80,7 +80,7 @@ h2 {
 }
 
 footer {
-    background-color: #d3d3d3; /* Light gray background */
+    background-color: #ffffff; /* White background */
     color: #333; /* Dark gray text color */
     text-align: center;
     padding: 10px;
